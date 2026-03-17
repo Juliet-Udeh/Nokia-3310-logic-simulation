@@ -21,4 +21,4 @@ This project is a high-fidelity simulation of a classic mobile phone hierarchica
 ## How to Run
 1. Ensure you have Python 3.10 or higher installed.
 2. Clone the repository.
-3. Run `python main.py` in your terminal.
+3. Run `python nokia.py` in your terminal.
