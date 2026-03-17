@@ -15,7 +15,6 @@ This project is a high-fidelity simulation of a classic mobile phone hierarchica
 ## Skills Demonstrated
 *   **Back-end Logic Development**
 *   **Structural Pattern Matching**
-*   **CLI UX/UI Design**
 *   **Hierarchical Data Routing**
 
 ## How to Run
