@@ -1,8 +1,24 @@
-# Nokia-3310-logic-simulation
-A multi-level CLI navigation system built in Python 3.10+ simulating legacy mobile OS logic using structural pattern matching.
-This project is a functional reconstruction of a hierarchical mobile menu system, designed to demonstrate nested control flow and efficient data routing. Using Python's modern match-case syntax, I mapped out 13 primary system modules (Phone Book, Messaging, Settings, etc.) and their respective sub-menus to create a seamless user navigation experience in a terminal environment.
+# CLI Mobile Menu Navigation System (Python)
 
-Key Engineering Problems Solved:
-Deep Nesting: Managed up to four levels of menu depth without losing logical integrity or causing recursion errors.
-UI Clarity: Utilized multi-line strings and formatted output to ensure a clean, readable Command Line Interface (CLI).
-Logic Efficiency: Replaced heavy if-elif chains with match-case for better performance and code readability.
+## Overview
+This project is a high-fidelity simulation of a classic mobile phone hierarchical menu system (Nokia 3310 style). It demonstrates the use of **Structural Pattern Matching** to manage complex, multi-level decision trees in a Command Line Interface (CLI).
+
+## Technical Features
+*   **Nested Logic Architecture:** Manages 13 primary modules with up to 4 levels of sub-menu depth.
+*   **Python 3.10+ Implementation:** Utilizes modern `match-case` statements for cleaner, more efficient branching compared to traditional `if-elif` chains.
+*   **Hierarchical Mapping:** A complete logical reconstruction of legacy mobile OS navigation, including:
+    *   Phone Book & Service Options
+    *   Message Settings (Sets, Common, & Reports)
+    *   Call Register & Cost Tracking
+    *   System & Security Settings
+
+## Skills Demonstrated
+*   **Back-end Logic Development**
+*   **Structural Pattern Matching**
+*   **CLI UX/UI Design**
+*   **Hierarchical Data Routing**
+
+## How to Run
+1. Ensure you have Python 3.10 or higher installed.
+2. Clone the repository.
+3. Run `python main.py` in your terminal.
